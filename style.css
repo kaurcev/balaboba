@@ -1,0 +1,14 @@
+* {
+    font-family: 'Segoe UI';
+}
+
+body {
+    margin: 0;
+    background: black;
+}
+
+header {
+    display: flex;
+    padding: 25px;
+    background: #222;
+}

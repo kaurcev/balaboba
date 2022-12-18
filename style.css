@@ -13,3 +13,20 @@ header {
     background: #222;
     color: white;
 }
+
+main {
+    color: white;
+    padding: 25px;
+}
+
+footer {
+    background: #111;
+    color: white;
+    padding: 25px;
+}
+
+a {
+    color: #0AF; /* факт дня: это акцентный цвет Say Online */
+    user-select: none;
+    text-decoration: none;
+}
